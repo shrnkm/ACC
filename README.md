@@ -1,5 +1,6 @@
 # ACC
-Homeworks of the course Computational Cognition, Osnabrueck University, spring semester 2019
+Solutions to homeworks of the course Computational Cognition, Osnabrueck University, spring semester 2019, by Group 01
+
 
 
 ### Week 02
