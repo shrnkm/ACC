@@ -4,6 +4,7 @@ Solutions to homeworks of the course Computational Cognition, Osnabrueck Univers
 
 
 ### Week 02
+![Week 2](https://user-images.githubusercontent.com/27868570/64129875-1e299500-cdbf-11e9-8344-fd9c694ee214.jpg)
 
 ### Week 04
 - sheet02
