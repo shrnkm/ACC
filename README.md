@@ -1,5 +1,5 @@
 # ACC
-Solutions to the homeworks of the course Computational Cognition, Osnabrueck University, spring semester 2019,
+Solutions to the homework of the course Computational Cognition, Osnabrueck University, spring semester 2019,
 <br>by [Group 01](https://github.com/orgs/NBP-ACC/teams/acc_01)
 
 
