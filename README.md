@@ -1,6 +1,6 @@
 # ACC
 Solutions to the homework of the course Computational Cognition, Osnabrueck University, spring semester 2019,
-<br>by [Group 01](https://github.com/orgs/NBP-ACC/teams/acc_01)
+<br>by [Group 01](https://github.com/orgs/NBP-ACC/teams/acc_01): [Dorian](https://github.com/DorianDaimer), [Weronika](https://github.com/Wero1997), and Sahar
 
 
 ### Week 02
